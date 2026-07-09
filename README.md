@@ -12,6 +12,8 @@ This example is to show different parts of the Git repository and various comman
 
 ## How to contribute
 
+Please fork this repository and then issue Pull Requests for review.
+
 ### Copyright
 
 2014 Git.Training.
